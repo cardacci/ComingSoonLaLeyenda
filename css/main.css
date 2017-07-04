@@ -100,9 +100,14 @@ ul li {
 	color: #fff;
 	display: flex;
 	flex-direction: column;
-	font-size: 3rem;
+	font-size: 2rem;
 	height: 8rem;
 	justify-content: center;
+	margin-bottom: 10rem;
+}
+
+.contact-data a {
+	color: #fff;
 }
 
 .contact-title {
